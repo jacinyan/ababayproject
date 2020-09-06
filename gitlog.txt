@@ -1,0 +1,185 @@
+commit 703329d70e29f64bd9101fbc624fc2c6110d65f1
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sun Sep 6 03:46:11 2020 +0000
+
+    doesn't seem to be the case....come on
+
+commit 8e79622358153ed39585e8fdb6d197b97b85af3c
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sun Sep 6 03:25:35 2020 +0000
+
+    modified blog and contact and hopefully this is the last commit
+
+commit 1d0e37447dbd810df8a0af1e3a082f8e5ad7f299
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Sep 4 15:00:07 2020 +0000
+
+    final perhaps?
+
+commit e79f6203cdc37bbb759fb7bc51331dfbdcfabe3b
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Sep 4 14:47:22 2020 +0000
+
+    check
+
+commit 027dd5f0c5a15d981e21c938a41b6ae8b0426371
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Sep 4 14:45:20 2020 +0000
+
+    SRI
+
+commit cc06ffc23bb323cb3d14f87e66eb23186c04e284
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Sep 4 14:16:44 2020 +0000
+
+    check
+
+commit 528ffe0b1a2a2e2903ff79cc616b1a24bd067423
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Sep 4 12:34:11 2020 +0000
+
+    added README.md
+
+commit f03bd7f1df51fd8c29543322a7b1517822455ce2
+Author: Ji <wyejay090717@gmail.com>
+Date:   Thu Sep 3 15:35:26 2020 +0000
+
+    modified blog page
+
+commit 86375e8dc51b6b16bd37ed44ed90cd43687bfbfa
+Author: Ji <wyejay090717@gmail.com>
+Date:   Thu Sep 3 05:14:27 2020 +0000
+
+    fixed about page
+
+commit 59079eb700229e526b80b4ba4560661491a2ada2
+Author: Ji <wyejay090717@gmail.com>
+Date:   Tue Sep 1 15:36:02 2020 +0000
+
+    modified contact page
+
+commit 60e4ddeb5e1f2e8e2f5cf1776764ca35c185f4fb
+Author: Ji <wyejay090717@gmail.com>
+Date:   Tue Sep 1 05:46:45 2020 +0000
+
+    changes to sytle-page.css
+
+commit 969765c6b7f2dc5930ec7fe0169a858e21ee5a83
+Author: Ji <wyejay090717@gmail.com>
+Date:   Tue Sep 1 03:04:46 2020 +0000
+
+    changes to style-pages.css
+
+commit 299c3336593618be5e144b74acf563fa29b041ea
+Author: Ji <wyejay090717@gmail.com>
+Date:   Tue Sep 1 01:49:20 2020 +0000
+
+    build the blog page
+
+commit e701a7b113bef420ed22c8ca20e68e43d0a70122
+Author: Ji <wyejay090717@gmail.com>
+Date:   Mon Aug 31 22:26:13 2020 +0000
+
+    modified blog page
+
+commit 6fd634b6d59238575c7c38b2fdae9a5b9dec90e3
+Author: Ji <wyejay090717@gmail.com>
+Date:   Mon Aug 31 13:13:20 2020 +0000
+
+    massive changes to about page
+
+commit 6d0eb08afc8d1448fbc087273084c7d026389326
+Author: Ji <wyejay090717@gmail.com>
+Date:   Mon Aug 31 07:18:29 2020 +0000
+
+    modified pages css tablet view for About page
+
+commit 02475fe393c6baccb8d646391f7a543a710d6801
+Author: Ji <wyejay090717@gmail.com>
+Date:   Mon Aug 31 05:41:47 2020 +0000
+
+    built project pages
+
+commit db4ca7c20e59305e5ca7438abbd6f0ba3efc5fc1
+Author: Ji <wyejay090717@gmail.com>
+Date:   Mon Aug 31 02:25:32 2020 +0000
+
+    styling projects page and built contact page
+
+commit 462fb06fbe048f8fa436812dff45f01bac1b6cb5
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sun Aug 30 15:42:45 2020 +0000
+
+    reorganised directories for deployment
+
+commit 7519f1fe41a7f2ffa21b0141af1f0d4b61412a53
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sun Aug 30 14:55:27 2020 +0000
+
+    building projects page html and css
+
+commit 1e5eccef306d8fd6c54da448e432a66db22584b5
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sun Aug 30 07:51:48 2020 +0000
+
+    modified sytle pages and building projects page
+
+commit bed222430a6c3f3af4a644d1c91b64d5d2984adf
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sat Aug 29 15:25:23 2020 +0000
+
+    adjusted tablet view for about page
+
+commit a1919f5199beb105034134aa7661800462b92da3
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sat Aug 29 12:58:08 2020 +0000
+
+    modified style-pages.css
+
+commit b71a885410fcc496697b301735cc179c67ef51c5
+Author: Ji <wyejay090717@gmail.com>
+Date:   Sat Aug 29 10:35:26 2020 +0000
+
+    created About page
+
+commit 3768cd75b07c1a8df15552a50748a8413d774ec3
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Aug 28 08:40:54 2020 +0000
+
+    building about page
+
+commit 1b998ba0a89b6bac5b2d16f264eb4ea30ff53c6e
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Aug 28 03:35:25 2020 +0000
+
+    organised reporsitories
+
+commit ac5d3c7d1df78df7c0069987b159665793268ca2
+Author: Ji <wyejay090717@gmail.com>
+Date:   Fri Aug 28 02:04:02 2020 +0000
+
+    added image 4
+
+commit d62eab6c2e48106eae9818abba1465edd11dc804
+Author: Ji <wyejay090717@gmail.com>
+Date:   Thu Aug 27 08:11:11 2020 +0000
+
+    homepage for web set up
+
+commit b150f98bcf9735acb675abed07d332279c5f8351
+Author: Ji <wyejay090717@gmail.com>
+Date:   Wed Aug 26 17:12:54 2020 +0000
+
+    test 2
+
+commit d100fca3e8faf9c0c117bfbe879482e26824b804
+Author: Ji <wyejay090717@gmail.com>
+Date:   Wed Aug 26 17:10:54 2020 +0000
+
+    test gitlog
+
+commit cfb01801b277f668460bd30e64cb766b8459ac89
+Author: Ji <wyejay090717@gmail.com>
+Date:   Wed Aug 26 17:06:11 2020 +0000
+
+    organised folders

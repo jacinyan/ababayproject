@@ -1,0 +1,135 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+html{
+  height: 100vh;   /*note zero*/
+}
+
+body {
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
+  height: 100vh;   /*note zero*/
+  background: url("./img/2.jpeg") no-repeat;
+  background-size: cover;
+}
+
+.typing {
+  width: 6em;
+  white-space: nowrap;
+  border-right: 2px solid transparent;
+  animation: typing 3.5s steps(15, end), blink-caret .75s step-end infinite;
+  overflow: hidden;
+}
+
+/* printing */
+@keyframes typing {
+from { width: 0; }
+to { width: 6em; }
+}
+/* cursor */
+@keyframes blink-caret {
+from, to { box-shadow: 0.5em 0 0 0 transparent; }
+50% { box-shadow: 0.5em 0 0 0; }
+}
+
+/* ---------------- web view for the general setting---------------- */
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  width: 100%;
+  height: 80px;
+  background: rgb(8, 8, 9);
+}
+
+.header-s {
+  display: flex;
+  justify-content: space-between;  /* note1 */
+  width: 80%;
+  margin: auto;
+}
+
+hgroup {
+  color: #f7fff7;
+  font-size:24px;
+  height: 80px;
+  line-height: 80px; /* note2 */
+}
+
+nav ul {
+  display: flex;
+  justify-content: start;
+}
+
+nav ul li {         /* note 3*/
+  height: 80px;
+  line-height: 80px;
+  margin: 0 20px;
+}
+
+
+nav ul li a {
+  color: #f7fff7;
+}
+
+nav ul li a:hover {
+  color: goldenrod;
+  transition: 0.5s;
+}
+
+
+/* ----------------  web view for index's navbar ---------------- */
+
+@media screen and (max-width: 479px) {
+
+  html {
+    height: 100%;
+  }
+
+  body {
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: url("./img/2-1.jpeg") no-repeat;
+    background-size: cover;
+    }
+
+  .header-s {
+    display: flex;
+    justify-content: space-between;  
+    width: 90%;   /* note4 */
+    margin: auto;
+    }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    flex-wrap: wrap;
+    }
+}
+/* ---mobile view for index's content(namely background) ------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
